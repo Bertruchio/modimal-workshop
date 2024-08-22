@@ -13,3 +13,7 @@
 ## Демонстрация
 
 Вы можете просмотреть живую демонстрацию проекта здесь: [Modimal Demo](https://bertruchio.github.io/modimal-workshop/)
+
+## Макет
+
+Посмотрите макет проекта в Figma: [Modimal Design](https://www.figma.com/design/D8UIKvq8fQcUnbsKYvzbJz/modimal---v3-(workshop)?node-id=630-6864&t=vSiJvDFIccBCjAJc-1)
